@@ -1,6 +1,7 @@
 # -*-coding:utf-8 -*-
 #
 # Created on 2016-03-04, by felix
+#modified 2017-06-08, by ali  for python 3.6
 #
 
 __author__ = 'felix,ali'
